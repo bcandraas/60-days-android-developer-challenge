@@ -6,7 +6,7 @@ The goal is to practice consistently, follow modern Android architecture, and bu
 
 Started: March 2026  
 Status: In Progress
-
+Daily Progress : https://tinyurl.com/60dailytracker
 ---
 
 # Learning Roadmap
