@@ -5,8 +5,10 @@ This repository documents my **60-day journey to relearn modern Android developm
 The goal is to practice consistently, follow modern Android architecture, and build real projects using the latest Android development tools.
 
 Started: March 2026  
-Status: In Progress
+Status: In Progress  
+
 Daily Progress : https://tinyurl.com/60dailytracker
+
 ---
 
 # Learning Roadmap
